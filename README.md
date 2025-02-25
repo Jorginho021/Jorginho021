@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn more.
 - 🌱 I’m currently learning switch-case
 - 💞️ I’m looking to collaborate on everything I ca.
-- 😄 Pronouns: him/his
+- 😄 Pronouns: him
 - ⚡ Fun fact: most times when I play ball I fall.
 
 <!---
